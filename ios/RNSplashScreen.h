@@ -14,4 +14,5 @@
 + (void)show:(NSString*)splashScreen inRootView:(UIView*)rootView;
 + (void)show;
 + (void)hide;
++ (void)setAlpha:(float) alpha;
 @end
