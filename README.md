@@ -1,4 +1,4 @@
-# @logonkhi Fork Version
+# 0logonkhi Fork Version
 # react-native-splash-screen
 
 
